@@ -6,7 +6,7 @@ var img;
 function setup() {
   createCanvas(1000, 1500);
   frameRate(2);
-  img = loadImage("https://soomyueh.github.io/20152498/Black.png")
+  img = loadImage("20152498/Black.png")
 }
 
 function draw() {
