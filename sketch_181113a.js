@@ -6,7 +6,7 @@ var img;
 function setup() {
   createCanvas(1000, 1500);
   frameRate(2);
-  img = loadImage("https://i.imgur.com/If1poHv.png")
+  img = loadImage("Black.png")
 }
 
 function draw() {
